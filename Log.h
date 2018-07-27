@@ -2,7 +2,7 @@
 #include <windows.h>
 #include <string.h>
 #include <stdio.h>
-#include "stdarg.h"
+//#include "stdarg.h"
 
 #define LOG_OUT //透過註解取消LOG
  
